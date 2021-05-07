@@ -1,0 +1,28 @@
+{
+  "name": "ProgressiveBudget",
+  "version": "1.0.0",
+  "description": "A budget tracker app that allows the user to add expenses and make deposits while giving the user a balance of their money. This app can be accessed offline and will still be able to have full functionality.",
+  "main": "index.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.12.7",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComputerSleek/ProgressiveBudget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComputerSleek/ProgressiveBudget/issues"
+  },
+  "homepage": "https://github.com/ComputerSleek/ProgressiveBudget#readme"
+}
